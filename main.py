@@ -43,7 +43,7 @@ logging.basicConfig(
 )
 
 # Auth Users
-AUTH_USERS = ['1476002847']
+AUTH_USERS = ['5892781710']
 
 # Prefixes 
 prefixes = ["/", "~", "?", "!"]
